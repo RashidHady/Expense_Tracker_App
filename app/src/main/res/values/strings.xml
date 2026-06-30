@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Financial Tips</string>
+    <string name="financial_tips">Financial Tips</string>
+    <string name="today_tip">Today\'s Tip</string>
+    <string name="today_tip_content">save at least 10% of your income.</string>
+    <string name="motivation">Motivation</string>
+    <string name="motivation_content">Small saving today build big wealth tommorrow.\"</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_add_expenses">Add Expenses</string>
+    <string name="menu_add_income">Add Income</string>
+    <string name="menu_history">History</string>
+    <string name="menu_tips">Tips</string>
+    <string name="refresh">Refresh</string>
+    <string name="quote">Quote</string>
+    <string name="illustration">Illustration</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+</resources>
