@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Expense Tracker</string>
+    <string name="hello_rashid">Hello, Rashid</string>
+    <string name="track_expenses_subtitle">Track your expenses and\ngrow your savings</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="income_minus_expense">(Income - Expense)</string>
+    <string name="total_income">Total Income</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="home">Home</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="add_income">Add Income</string>
+    <string name="history">History</string>
+    <string name="tips">Tips</string>
+    <string name="expense_history">Expense History</string>
+    <string name="search_expense">Search expense</string>
 </resources>
